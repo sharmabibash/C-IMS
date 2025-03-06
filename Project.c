@@ -4,7 +4,6 @@
 #include<windows.h>
 #include<time.h>
 #include<stdlib.h>
-
 #include "Header File/Store Company Info.h"
 #include "Header File/Insert Items.h"
 #include "Header File/Modify Items.h"
